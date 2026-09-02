@@ -50,6 +50,7 @@ zzang001
 -[emine-cakal](https://github.com/EmineCakal5)
 - [Cory Sands](https://github.com/CorySands)
 - [Fernando Luis](https://github.com/Fernando-Alexander)
+- [Priyansh](https://github.com/priyansh019)
 - [Tejeswar Achari Vadla](https://github.com/TejeswarAchari)
 - [VVNSPAVAN](https://github.com/VVNSPAVAN )
 - [vikas-kushwaha-dev](https://github.com/vikas-kushwaha-dev)
