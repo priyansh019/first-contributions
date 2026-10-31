@@ -4904,6 +4904,7 @@ Raphael Karani
 - [Rudra Hardik Shroff](https://github.com/rudra-shroff06)
 - [kritika](https://github.com/Kxor8)
 - Ajay Javali
+- Sunny S
 - [Yashkumar](https://github.com/yash110905)
 - [Gular Mammadova](https://github.com/gularmammadof)
 - [Jaideep krishna A](https://github.com/jaideepkrishna2008-ui)
